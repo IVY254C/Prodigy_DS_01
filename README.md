@@ -37,10 +37,7 @@ During the EDA process, I performed the following steps:
 ### 4. Sorting and Selection
 - **Top and Bottom Countries**: I extracted and displayed the top 10 countries with the highest and lowest populations for both total population and male population in 2022 and 2023. This was achieved by sorting the dataset based on population values and using `.head()` to select the top 10 or bottom 10 countries.
 
-### 5. Code Implementation
-The following code snippet showcases the data cleaning and visualization processes performed during the analysis:
-
-### 6. Conclusion
+### 5. Conclusion
 In this analysis, I performed data cleaning, filtering, and visualization to analyze the total population and male population for different countries. The visualization provides insights into the distribution of populations across countries for the year 2022. By sorting and selecting the top and bottom countries, I was able to identify the countries with the highest and lowest populations in both total and male populations.
 
 This analysis helps in understanding the population trends globally and can be used for further demographic studies.
